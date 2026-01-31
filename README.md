@@ -25,9 +25,7 @@ This project demonstrates how **Physics-Informed Neural Networks (PINNs)** can:
 
 The model solves the **2D transient heat equation** derived from Fourier’s Law:
 
-\[
-\frac{\partial T}{\partial t} = \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right)
-\]
+$$\frac{\partial T}{\partial t} = \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right)$$
 
 ### Problem Setup
 
